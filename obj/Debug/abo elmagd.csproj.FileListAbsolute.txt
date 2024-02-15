@@ -1,0 +1,17 @@
+D:\abo elmagd\abo elmagd\bin\Debug\abo elmagd.exe.config
+D:\abo elmagd\abo elmagd\bin\Debug\abo elmagd.exe
+D:\abo elmagd\abo elmagd\bin\Debug\abo elmagd.pdb
+D:\abo elmagd\abo elmagd\obj\Debug\abo elmagd.csproj.AssemblyReference.cache
+D:\abo elmagd\abo elmagd\obj\Debug\abo_elmagd.Form1.resources
+D:\abo elmagd\abo elmagd\obj\Debug\abo_elmagd.Properties.Resources.resources
+D:\abo elmagd\abo elmagd\obj\Debug\abo elmagd.csproj.GenerateResource.cache
+D:\abo elmagd\abo elmagd\obj\Debug\abo elmagd.csproj.CoreCompileInputs.cache
+D:\abo elmagd\abo elmagd\obj\Debug\abo elmagd.exe
+D:\abo elmagd\abo elmagd\obj\Debug\abo elmagd.pdb
+D:\abo elmagd\abo elmagd\obj\Debug\abo_elmagd.Databaseform.resources
+D:\abo elmagd\abo elmagd\obj\Debug\abo_elmagd.billsform.resources
+D:\abo elmagd\abo elmagd\bin\Debug\abo elmagd.exe.manifest
+D:\abo elmagd\abo elmagd\bin\Debug\abo elmagd.application
+D:\abo elmagd\abo elmagd\obj\Debug\abo elmagd.exe.manifest
+D:\abo elmagd\abo elmagd\obj\Debug\abo elmagd.application
+D:\abo elmagd\abo elmagd\obj\Debug\abo_elmagd.Form5.resources
